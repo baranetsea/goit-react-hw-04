@@ -1,0 +1,17 @@
+.img {
+  padding: 5px;
+}
+.container {
+  border: 1px solid black;
+  border-radius: 10px;
+
+  overflow: hidden;
+  width: 100%;
+}
+.imageCard {
+  background-color: grey;
+}
+.content {
+  margin: 0;
+  color: aqua;
+}

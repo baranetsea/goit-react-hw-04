@@ -1,0 +1,14 @@
+.header {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+  background-color: aquamarine;
+  border-radius: 10px;
+}
+.input {
+  width: 400px;
+  margin: 10px;
+}
+.btn {
+  margin: 10px;
+}
